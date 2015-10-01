@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inputf",
+				"inputfile-1"
+			],
+			[
+				"inpu",
+				"input"
+			],
+			[
+				"multi",
+				"multiselect-container"
+			],
+			[
+				"dis",
+				"display_price"
+			],
+			[
+				"display",
+				"display_price"
+			],
+			[
+				"displ",
+				"display_price"
+			],
+			[
+				"paym",
+				"payment_note"
+			],
+			[
+				"equip",
+				"equip_type_icon"
+			],
+			[
+				"produc",
+				"product_line"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"equipment_uni",
+				"equipment_uniq_fields"
+			],
+			[
+				"system_ty",
+				"system_type_name"
+			],
+			[
+				"job",
+				"job_task"
+			],
+			[
+				"propo",
+				"proposal_options"
+			],
+			[
+				"prop",
+				"proposal_options"
+			],
+			[
+				"section",
+				"section_edits"
+			],
+			[
+				"admin",
+				"admin_user_id"
+			],
+			[
+				"model",
+				"model_index"
+			],
+			[
+				"page",
+				"page_break_offset"
+			],
+			[
+				"mod",
+				"model_count"
+			],
+			[
+				"second",
+				"second_model_page"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"di",
+				"discussion"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/view_details.php",
+			"settings":
+			{
+				"buffer_size": 6547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/results.php",
+			"settings":
+			{
+				"buffer_size": 11002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 3612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/search.php",
+			"settings":
+			{
+				"buffer_size": 11585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/index.php",
+			"settings":
+			{
+				"buffer_size": 5321,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Findeii/PCCCA/BookARetreatOld/view_details.php",
+		"/Users/Findeii/PCCCA/BookARetreatOld/results.php",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/results.php",
+		"/Users/Findeii/PCCCA/BookARetreatOld/.htaccess",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/.htaccess",
+		"/Users/Findeii/PCCCA/BookARetreatOld/statelist.php",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/index.php",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/search.php",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/css/style.css",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/generate_map_xml.php",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/test.html",
+		"/Users/Findeii/PCCCA/BookARetreatOld/generate_map_xml.php",
+		"/Users/Findeii/PCCCA/BookARetreatOld/index.php",
+		"/Users/Findeii/PCCCA/BookARetreatOld/css/feedback_notices.css",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/css/feedback_notices.css",
+		"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/connect.php",
+		"/Users/Findeii/PCCCA/BookARetreatOld/connect.php",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/component.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/common/style1.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/settings/index.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/common/bootstrap.min.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts/_option_summary.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts/_work_order_header.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/sales_orders/display_work_order.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts/_sales_order.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/pricing_parameter.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts/_form.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealer_vendor_contacts/_form.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/models/dealer.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/config/routes.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/sales_orders/old_work_order.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts/_old_work_order_header.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/sales_orders/_work_order_content.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/dealer_list.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers/_dealer_list.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers/index.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers/dealers_pdf_popup.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers/no_dealers.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers/_form.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/dealers_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/dealer.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/sales_orders/installation_work_order.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/common/style.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/account.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/db/migrate/20150915050543_add_ducting_note_to_sales_orders.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/models/sales_order.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/config/deploy/demo.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/pricebook_pages/show_pricebook_capacity_summary.pdf.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/sales_orders_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/opportunities_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/accounts_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts/proposal_show.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/application.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/payments_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/accounts_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/common/edited_style.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/style_kjm.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts/_contact_service.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/sales_orders_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/sales_order.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/models/index.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/model.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/print_previews_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/proposals_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/equipment/_equipment_rows.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/show.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/updated_show.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/show-proposal.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/_split_package_unit_heat_pump.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/_split_heat_pump.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/_split_dual_fuel.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/_split_gas_electric.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/_split_package_unit_heat_pump.html.erb.orig",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals/show.pdf.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/pricebook_pages_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf_summary.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/print.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/rec-print-preview.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers/application_helper.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/print-preview.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/libs/jquery.print-preview.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/service_index.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/models_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/models/_marketing_warranty.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf/style.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/model_unique_fields_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/equipment/_equipment_heat_strip.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/equipment/_equipment_furnance.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/equipment/_equipment_air_handler.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/equipment/_equipment_heat_pump.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf_cover.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf_model_show.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pdf_show.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts/clone_edit.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts/pricebook_pages.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets/pricebook_page.css",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/payments/payment.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers/proposals_controller.rb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/distributor_pricebooks/_accessory_system_type.html.erb",
+		"/private/var/folders/5k/8_1sgn0x1m105pfynjk37hv40000gn/T/fz3temp-2/index.html",
+		"/private/var/folders/5k/8_1sgn0x1m105pfynjk37hv40000gn/T/fz3temp-2/workshops.html",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/job_tasks/share_jobs_po.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/install_packages/share_install_po.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/discounts/share_discount_po.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/rebates/share_rebate_po.html.erb",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/javascripts/checkboxs_select.js",
+		"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/job_tasks/share_jobs.html.erb",
+		"/Users/Findeii/Sites/simple_cms/app/models/section_edit.rb",
+		"/Users/Findeii/Sites/simple_cms/app/models/section.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150313152151_create_section_edits.rb",
+		"/Users/Findeii/Sites/simple_cms/app/models/page.rb",
+		"/Users/Findeii/Sites/simple_cms/app/models/admin_user.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150313151028_create_admin_users_pages_join.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312191613_create_sections.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312191604_create_pages.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312191559_create_subjects.rb",
+		"/Users/Findeii/Sites/simple_cms/config/database.yml",
+		"/Users/Findeii/Sites/simple_cms/app/models/subject.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312185816_alter_users.rb",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312183804_create_users.rb",
+		"/Users/Findeii/Sites/simple_cms/Rakefile",
+		"/Users/Findeii/Sites/simple_cms/db/migrate/20150312183517_do_nothing_yet.rb",
+		"/Users/Findeii/Sites/simple_cms/db/schema.rb",
+		"/Users/Findeii/Sites/simple_cms/config/routes.rb",
+		"/Users/Findeii/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/Users/Findeii/Sites/simple_cms/app/views/demo/hello.html.erb",
+		"/Users/Findeii/Sites/simple_cms/app/controllers/demo_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/css",
+			"/Users/Findeii/PCCCA/BookARetreatOld",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/dealers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/models",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/models",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/sales_orders",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/layouts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets/stylesheets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/accounts",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/controllers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/models",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/assets",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/helpers",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views/proposals",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook/app/views",
+			"/Users/Findeii/PricebookPlus/railsfactory/hvacpricebook",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"details ripple-effect\"",
+			"$address",
+			"address",
+			".card",
+			"large-4",
+			"ripple",
+			"bookaretreat",
+			"map",
+			"bookaretreat",
+			"conference",
+			"view",
+			"findemails",
+			"conference-",
+			"view_details.php",
+			"\"></",
+			">",
+			"error",
+			"address",
+			"latlang",
+			"form",
+			"searchLocations",
+			"opportunity",
+			"Opportunity",
+			"Opportnity",
+			"-2",
+			"logo",
+			"%\">",
+			":image",
+			"padding: 6px 12px;",
+			"\\9",
+			"1px \\9",
+			"display_price",
+			"Opportunity",
+			"pops-info",
+			"Use this page to set up different gross margin percentages for different Standard Option names. These gross margin factors will be used for any proposal or recommendation options using the standard names below, and they are used for pricing equipment only, not services or install packages.",
+			"options_for_select",
+			"Recieve W.O.",
+			", :display_price => display_price",
+			"payment_method",
+			"payment",
+			"display_price",
+			"work_order_header",
+			"count",
+			"<span class=\"down",
+			"dealer_list",
+			"pdf-template",
+			"#pdf-template",
+			"dealers_list",
+			"noDealer",
+			"pdfOptions",
+			"dealers_pdf_popup",
+			"#pdfOptions",
+			"resolve_layout",
+			"dealers_pdf_popup",
+			"#dealers_pdf_popup",
+			"dealers_pdf_pop",
+			"pdfOptions",
+			"#pdfOptions",
+			"dealers",
+			"display_sales_order",
+			"sub-menu",
+			"print_preview",
+			"opportunity",
+			"account",
+			"Save",
+			"@sales_order.update_attributes",
+			"update_attributes",
+			"update",
+			"getElementsByName(\"commit\")",
+			"getElementsByName",
+			"getElementByName",
+			"getElementByName(\"commit\")",
+			"getElementByName('sales_order",
+			"getElementByName(\"sales_order",
+			"@sales_order",
+			"open_change",
+			"save_change",
+			"onchange",
+			"save_change",
+			"sales_order_date",
+			"@sales_order.save!",
+			"save!",
+			"total_discount_amount",
+			"sales_order_sales_order_date",
+			"commit",
+			"save",
+			"sales_order",
+			"sales_order_sales_order_date",
+			"margin:0",
+			"margin: 0",
+			"margin-bottom",
+			"mygrid_container",
+			"opportunity status",
+			"Salesperson",
+			"open_editor",
+			"role=\"presentation\"",
+			"proposal_mail_opening_statement",
+			":proposal_mail_opening_statement",
+			"email for sales order",
+			"h3",
+			"proposal_show",
+			"proposal-show",
+			"proposal-footer",
+			"clone_edit",
+			"footer",
+			"layout",
+			"display_sales_order",
+			"layout",
+			"proposal-footer",
+			"display_work_order",
+			"work_order_content",
+			"_work_order_content",
+			"footer-logo",
+			"3",
+			"navbar",
+			"@media print",
+			"@media",
+			"header",
+			"header { display: none }",
+			"@media print",
+			"sm",
+			"Addresses",
+			"sales_order",
+			"payment_term_id",
+			"payment_term",
+			"margin-none",
+			"margin",
+			"display_sales_order"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h4",
+			"xs",
+			"<br /><span class=\"model\">",
+			"20%",
+			"50%",
+			"22%",
+			"col-xs",
+			"too_many_models",
+			"images",
+			"",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/view_details.php",
+					"settings":
+					{
+						"buffer_size": 6547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2394,
+								2394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 488.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/results.php",
+					"settings":
+					{
+						"buffer_size": 11002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8214,
+								8214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2655.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 3612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2880,
+								2880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/search.php",
+					"settings":
+					{
+						"buffer_size": 11585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Findeii/PCCCA/calfindeiss.com/PCCCA/bestsummeryet/index.php",
+					"settings":
+					{
+						"buffer_size": 5321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2744,
+								2744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 732.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 449.0,
+	"status_bar_visible": true
+}

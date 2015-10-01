@@ -1,0 +1,50 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Best Summer Yet | Find a Camp Job this summer!</title>
+    <!--<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>-->
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <SCRIPT LANGUAGE="javascript">
+      function send(){
+        document.searchform.submit()
+      }
+    </SCRIPT>
+  </head>
+  <body>
+    <div class="content">
+      <img src="img/logo.png" />
+      <form name="searchform" action="results.html">
+        <div class="row">
+          <div class="large-12 columns">
+            <label><h1>Where do you want to spend your summer?</h1><br>
+              <input class="large-12 columns" type="text" placeholder="(Example: Walla Walla, Washington)">
+              <input type="submit" value="Search For A Camp" class="btn">
+            </label>
+          </div>
+        </div>
+        
+      </form>
+    </div><!-- /content -->
+    
+    
+
+    <div class="overlay"></div>
+
+    <video id="my-video" class="video" autoplay muted loop>
+    <source src="media/campvideo2.mp4" type="video/mp4">
+    <source src="media/demo.ogv" type="video/ogg">
+    <source src="media/demo.webm" type="video/webm">
+    </video><!-- /video -->
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>

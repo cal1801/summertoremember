@@ -1,0 +1,206 @@
+/* =============================================================================
+  CONTENT
+============================================================================= */
+body {
+  background-color: #385273;
+}
+
+body, h1, h2, h3, h4, h5, h6, .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.full-width {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+.gap {
+  height: 15px;
+}
+
+/* =============================================================================
+  Index Page
+============================================================================= */
+
+.content {
+  position: relative;
+  /*top: 30%;*/
+  z-index: 3;
+  margin: 0 auto;
+  max-width: 720px;
+  text-align: center;
+}
+
+h1 {
+  /*font-family: 'Fjalla One', sans-serif;*/
+  color: #BF4904;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+h3 {
+    background: white;
+}
+
+input {
+  border: 2px solid #385273;
+  font-size: 25px;
+  text-align: center;
+  background: rgba(255,255,255,.5);
+  border-radius: 15px;
+  padding: 10px
+}
+
+.btn {
+  margin-top: 30px;
+  padding: 10px 30px;
+  background: #385273;
+  color: #f2c84b;
+  box-shadow: 0 5px #141d29;
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: translate(0, 5px);
+  box-shadow: none;
+}
+
+/* =============================================================================
+  Results Page
+============================================================================= */
+
+.top-bar {
+  background: white;
+  margin-bottom: 35px;
+}
+
+.top-bar img {
+  max-height: 150px
+}
+
+.top-bar .menu {
+  text-align: right;
+  max-height: 150px;
+  position:absolute;
+  top:37%;
+  right: 0;
+}
+
+/*======= Cards ===========*/
+
+.card-container {
+  background: white;
+  box-shadow: 3px 3px 5px #000;
+  overflow: hidden;
+}
+
+.card-container img {
+  position: absolute;
+  padding: 0 15px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: .4;
+}
+
+.city, .name {
+  position: relative;
+  z-index: 2;
+  color: #385273;
+  padding: 10px 15px;
+  text-shadow: 0 0 10px white;
+}
+
+.name {
+  margin-bottom: 7px;
+  height: 100px;
+  overflow: hidden;
+}
+
+.details {
+  display: table-cell;
+  position: relative;
+  bottom: 0;
+  padding: 15px;
+  font-size: 1.3em;
+  color: #f2c84b;
+  background: #BF4904;
+  vertical-align: middle;
+}
+
+.details.results {
+  display: block;
+}
+
+/*======= Map ===========*/
+.map {
+  overflow: hidden;
+  padding:0 15px;
+}
+
+#map
+{
+  width:400px;
+  height:400px;
+  float:left;
+  margin-bottom:0.93em;
+}
+
+/* =============================================================================
+  Camp Listing Page
+============================================================================= */
+
+.camp-container {
+  background: white;
+  padding-bottom: 15px;
+}
+
+.contact-info {
+  padding-bottom: 15px;
+}
+
+.website {
+  /*position: inherit;
+  display: initial;*/
+  display: table;
+  text-align: center;
+  height: 200px;
+}
+
+.pccca {
+  padding-top: 15px;
+}
+
+/* =============================================================================
+  VIDEO
+============================================================================= */
+
+.video {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: 1;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
+/* =============================================================================
+  Overlay
+============================================================================= */
+
+.overlay {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: 2;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  background: rgba(255,255,255,.7);
+}
